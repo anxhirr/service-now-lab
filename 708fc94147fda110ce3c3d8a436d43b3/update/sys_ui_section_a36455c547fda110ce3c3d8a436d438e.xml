@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" section_id="a36455c547fda110ce3c3d8a436d438e" sys_domain="global" table="x_1020322_4dot_m_0_vending_machine_service" version="3" view="Vending_Machine_Service_Form">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>machine_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>91d5dd0947fda110ce3c3d8a436d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>95d5dd0947fda110ce3c3d8a436d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_owner</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>99d5dd0947fda110ce3c3d8a436d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>content_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>9dd5dd0947fda110ce3c3d8a436d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_installation</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>91d5dd0947fda110ce3c3d8a436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_purchase</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>95d5dd0947fda110ce3c3d8a436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_ownership</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>99d5dd0947fda110ce3c3d8a436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_group</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>9dd5dd0947fda110ce3c3d8a436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>91d5dd0947fda110ce3c3d8a436d434b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_time_serviced</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>95d5dd0947fda110ce3c3d8a436d434b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>journal</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:44:11</sys_created_on>
+            <sys_id>99d5dd0947fda110ce3c3d8a436d434b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1020322_4dot_m_0_vending_machine_servi" display_value="x_1020322_4dot_m_0_vending_machine_servi" name="x_1020322_4dot_m_0_vending_machine_service" sys_domain="global" view="79671cdd47f12110ce3c3d8a436d43bb">a36455c547fda110ce3c3d8a436d438e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:44:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_1020322_4dot_m_0_vending_machine_servi</caption>
+            <header>false</header>
+            <name>x_1020322_4dot_m_0_vending_machine_service</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 20:38:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a36455c547fda110ce3c3d8a436d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1020322_4dot_m_0_vending_machine_service</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">708fc94147fda110ce3c3d8a436d43b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</sys_scope>
+            <sys_update_name>sys_ui_section_a36455c547fda110ce3c3d8a436d438e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:38:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Vending Machine Service Form" name="Vending_Machine_Service_Form">79671cdd47f12110ce3c3d8a436d43bb</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

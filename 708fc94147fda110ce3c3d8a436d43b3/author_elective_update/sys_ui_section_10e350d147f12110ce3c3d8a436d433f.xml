@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Labs Section" section_id="10e350d147f12110ce3c3d8a436d433f" sys_domain="global" table="incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-24 12:47:42</sys_created_on>
+            <sys_id>1752fc9d47752110ce3c3d8a436d4360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Labs Section" display_value="Labs Section" name="incident" sys_domain="global" view="Default view">10e350d147f12110ce3c3d8a436d433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-24 12:47:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Labs Section</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-24 10:34:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10e350d147f12110ce3c3d8a436d433f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">708fc94147fda110ce3c3d8a436d43b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</sys_scope>
+            <sys_update_name>sys_ui_section_10e350d147f12110ce3c3d8a436d433f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-24 10:34:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</application>
+        <file_path/>
+        <instance_id>2700721bdb5d2d949831ac44d49619cd</instance_id>
+        <instance_name>dev159074</instance_name>
+        <name>sys_ui_section_10e350d147f12110ce3c3d8a436d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Labs Section" section_id="10e350d147f12110ce3c3d8a436d433f" sys_domain="global" table="incident" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-24 12:47:42</sys_created_on><sys_id>1752fc9d47752110ce3c3d8a436d4360</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Labs Section" display_value="Labs Section" name="incident" sys_domain="global" view="Default view">10e350d147f12110ce3c3d8a436d433f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-24 12:47:42</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Labs Section</caption><header>false</header><name>incident</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-24 10:34:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>10e350d147f12110ce3c3d8a436d433f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_overrides/><sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">708fc94147fda110ce3c3d8a436d43b3</sys_package><sys_policy/><sys_scope display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</sys_scope><sys_update_name>sys_ui_section_10e350d147f12110ce3c3d8a436d433f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-24 10:34:31</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-988561715</payload_hash>
+        <record_name>Incident</record_name>
+        <reverted_from/>
+        <source>36d0f41947352110ce3c3d8a436d43ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 12:47:42</sys_created_on>
+        <sys_id>db52fc9d47752110ce3c3d8a436d4362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18713a91d4b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 12:47:42</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1352fc9d057521101a5134cca9805062</update_guid>
+        <update_guid_history>1352fc9d057521101a5134cca9805062:-988561715,de675cddbaf12110fd1db7fef57daa4d:564885576,58169cd963f12110c22bc4f2386e287c:-1723956389,d0e350d140f121105b2ff488b352e68f:564885576</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 12:47:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>02933f963f054acc87ec1a1e438c6ac4</sys_id>
+        <sys_metadata>10e350d147f12110ce3c3d8a436d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">708fc94147fda110ce3c3d8a436d43b3</sys_package>
+        <sys_parent display_value="Incident">db9bcf06c59021108c8b506e733c4c06</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</sys_scope>
+        <sys_scope_delete display_value="">1afecccc1c894eda9b7ad3d2869db224</sys_scope_delete>
+        <sys_update_name>sys_ui_section_10e350d147f12110ce3c3d8a436d433f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_10e350d147f12110ce3c3d8a436d433f">db52fc9d47752110ce3c3d8a436d4362</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 12:47:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

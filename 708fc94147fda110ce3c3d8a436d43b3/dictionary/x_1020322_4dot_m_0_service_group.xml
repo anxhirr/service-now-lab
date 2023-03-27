@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3a53dd4547fda110ce3c3d8a436d4318" label="Service Group" max_length="40" name="x_1020322_4dot_m_0_service_group" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Group Name" max_length="40" name="group_name" type="string"/>
+    </element>
+</database>

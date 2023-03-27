@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="862119c147fda110ce3c3d8a436d43d1" label="Vending Machine Service" max_length="40" name="x_1020322_4dot_m_0_vending_machine_service" type="collection">
+        <element label="Content Type" max_length="40" name="content_type" type="choice">
+            <choice/>
+        </element>
+        <element label="Current Owner" mandatory="true" max_length="32" name="current_owner" reference="core_company" type="reference"/>
+        <element label="Date of Installation" max_length="40" name="date_of_installation" type="glide_date_time"/>
+        <element label="Date of Purchase" max_length="40" name="date_of_purchase" type="glide_date_time"/>
+        <element label="Journal" max_length="200" name="journal" type="string"/>
+        <element label="Last Time Serviced" max_length="40" name="last_time_serviced" type="glide_date_time"/>
+        <element label="Location" mandatory="true" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Machine Name" mandatory="true" max_length="40" name="machine_name" type="string"/>
+        <element label="Service Group" mandatory="true" max_length="32" name="service_group" reference="x_1020322_4dot_m_0_service_group" type="reference"/>
+        <element label="State" mandatory="true" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+        <element label="Type of Ownership" max_length="40" name="type_of_ownership" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="current_owner"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="service_group"/>
+        </index>
+    </element>
+</database>

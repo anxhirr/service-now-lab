@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1020322_4dot_m_0_service_group</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 10:49:49</sys_created_on>
+        <sys_id>9c6798dd47f12110ce3c3d8a436d4391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1020322_4dot_m_0_service_group</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">708fc94147fda110ce3c3d8a436d43b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</sys_scope>
+        <sys_update_name>ua_table_licensing_config_9c6798dd47f12110ce3c3d8a436d4391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 10:49:49</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

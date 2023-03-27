@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1020322_4dot_m_0_service_group" version="2" view="sys_ref_list">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1020322_4dot_m_0_service_group</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>5563de5047bde150ce3c3d8a436d4389</sys_id>
+            <sys_mod_count/>
+            <sys_name>x_1020322_4dot_m_0_service_group</sys_name>
+            <sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">f1324610477de150ce3c3d8a436d433e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="4Dot Machine Service">f1324610477de150ce3c3d8a436d433e</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2023-03-21 17:19:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">9cc88342c51021108c8b506e733c4cac</view>
+            <view_name>sys_ref_list</view_name>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="">f1324610477de150ce3c3d8a436d433e</application>
+        <file_path/>
+        <instance_id>2700721bdb5d2d949831ac44d49619cd</instance_id>
+        <instance_name>dev159074</instance_name>
+        <name>sys_ui_list_x_1020322_4dot_m_0_service_group_sys_ref_list</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1020322_4dot_m_0_service_group" version="2" view="sys_ref_list"><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1020322_4dot_m_0_service_group</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>5563de5047bde150ce3c3d8a436d4389</sys_id><sys_mod_count/><sys_name>x_1020322_4dot_m_0_service_group</sys_name><sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">f1324610477de150ce3c3d8a436d433e</sys_package><sys_policy/><sys_scope display_value="4Dot Machine Service">f1324610477de150ce3c3d8a436d433e</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2023-03-21 17:19:39</sys_updated_on><sys_user/><view display_value="Reference List" name="sys_ref_list">9cc88342c51021108c8b506e733c4cac</view><view_name>sys_ref_list</view_name></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-581681133</payload_hash>
+        <record_name>x_1020322_4dot_m_0_service_group</record_name>
+        <reverted_from/>
+        <source>3d324610477de150ce3c3d8a436d4340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 17:19:39</sys_created_on>
+        <sys_id>bdd3d69047bde150ce3c3d8a436d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187052f03730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 17:19:39</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>f5d3d69065bde150e89b342feb384287</update_guid>
+        <update_guid_history>f5d3d69065bde150e89b342feb384287:-581681133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-24 10:43:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>79af8425cdc5497c89a0def55f498c61</sys_id>
+        <sys_metadata>ac06598547fda110ce3c3d8a436d43dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1020322_4dot_m_0_service_group</sys_name>
+        <sys_package display_value="4Dot Machine Service" source="x_1020322_4dot_m_0">708fc94147fda110ce3c3d8a436d43b3</sys_package>
+        <sys_parent display_value="4dot M 0 Service Group">3a53dd4547fda110ce3c3d8a436d4318</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machine Service">708fc94147fda110ce3c3d8a436d43b3</sys_scope>
+        <sys_scope_delete display_value="">1afecccc1c894eda9b7ad3d2869db224</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1020322_4dot_m_0_service_group_sys_ref_list</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1020322_4dot_m_0_service_group_sys_ref_list">bdd3d69047bde150ce3c3d8a436d4387</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-24 10:43:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
